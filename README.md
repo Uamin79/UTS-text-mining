@@ -1,4 +1,4 @@
-# SIAP-Siswa: Sistem Informasi Akademik dan Prestasi Siswa
+# SIAP-Siswa: Sistem Informasi Akademik dan Prestasi Siswa - UTS 24.01.53.7009
 
 Sistem manajemen sekolah terpadu yang memungkinkan admin, guru, dan orang tua untuk berinteraksi dan memantau perkembangan akademik serta non-akademik siswa secara digital.
 
@@ -138,4 +138,5 @@ siap-siswa/
 
 ## Lisensi
 
-Proyek ini dibuat untuk tujuan pendidikan dan demonstrasi.
+Proyek ini dibuat untuk tujuan Tugas UTS NIM 24.01.53.7009 
+
